@@ -5,7 +5,8 @@ Por [Ruan Azevedo](https://www.linkedin.com/in/ruan-azevedo-904203151)
 
 # Sobre o projeto
 
-Este é um projeto de aprendizagem das ferramentas **Springboot** e **JPA**, curso organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Este é um projeto de aprendizagem das ferramentas **Springboot** e **JPA**, curso organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior") na plataforma
+[Udemy](https://udemy.com)
 
 Esta aplicação é um simples sistema Web Service que consiste numa lógica de compra de produtos genéricos. Você pode trabalhar com os dados por meio de requisições REST.
 
